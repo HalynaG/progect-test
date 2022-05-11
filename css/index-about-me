@@ -1,0 +1,33 @@
+.block{
+    background-image: url(../img/about_me/decoration.png);
+    height: 200px;
+    background-color: #f4c524;
+}
+.about_me{
+    background-image: url(../img/about_me/5f772bf04d7077002204b9f5_optimized_1920.webp);
+    width: 100%;
+    min-width: 992px;
+    height: 770px;
+}
+.revue{
+    padding: -400px 70px 90px 70px;
+    margin: -100px 150px 320px 670px
+}
+.about_me_title{
+    font-size: 60px;
+    font-family: "Crimson Pro", serif; 
+}
+.about_me_subtitle{
+    font-size: 20px;
+    font-weight: 200;
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+.about_me__text{
+font-size: 17px;
+font-family: sans-serif;
+line-height: 1.5;
+}
+a{
+    color: white;
+}  
